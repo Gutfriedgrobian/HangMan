@@ -159,7 +159,7 @@ if __name__ == "__main__":
                 print(F)
 
             except ValueError:
-                  print("Bruder, weißt du eigentlich wie dieses Spiel funktioniert oder bist du Marlon der BugTester?")
+                  print("Bruder, weißt du eigentlich wie dieses Spiel funktioniert oder bist du BugTester?")
 
 
 
